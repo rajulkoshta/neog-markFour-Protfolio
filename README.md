@@ -1,3 +1,4 @@
-# PERSONAL PROTFOLIO WEBSITE
+# PERSONAL PORTFOLIO WEBSITE
 
-this is the personal protfolio website in making thses thigs will be getting updated soon
+##### This is my personal portfolio website which contains my  skills , projects ,social links and blogs. 
+[click here](https://rajulkoshtaportfolio.netlify.app/) to visit my portfolio website.
